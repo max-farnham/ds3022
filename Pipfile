@@ -17,6 +17,10 @@ httpx = "*"
 asyncio = "*"
 dbt-duckdb = "*"
 dbt-mysql = "*"
+psutil = "*"
+sympy = "*"
+bs4 = "*"
+prefect = "==3.8.7"
 
 [dev-packages]
 
