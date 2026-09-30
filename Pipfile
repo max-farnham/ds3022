@@ -11,11 +11,12 @@ duckdb = "*"
 pyarrow = "*"
 seaborn = "*"
 numpy = "*"
-dbt-duckdb = "*"
 dbt-core = "*"
 requests = "*"
 httpx = "*"
 asyncio = "*"
+dbt-duckdb = "*"
+dbt-mysql = "*"
 
 [dev-packages]
 
